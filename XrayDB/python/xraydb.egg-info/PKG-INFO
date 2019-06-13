@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: xraydb
+Version: 1.3
+Summary: X-ray Reference Data for the Elements
+Home-page: http://github.com/scikit-beam/XrayDB
+Author: Matthew Newville
+Author-email: newville@cars.uchicago.edu
+License: BSD
+Download-URL: http://github.com/scikit-beam/XrayDB
+Description: UNKNOWN
+Platform: Windows
+Platform: Linux
+Platform: Mac OS X
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+Requires: numpy
+Requires: sqlalchemy

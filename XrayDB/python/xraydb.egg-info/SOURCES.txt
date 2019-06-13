@@ -1,0 +1,9 @@
+README
+setup.py
+xraydb/__init__.py
+xraydb/xraydb.py
+xraydb/xraydb.sqlite
+xraydb.egg-info/PKG-INFO
+xraydb.egg-info/SOURCES.txt
+xraydb.egg-info/dependency_links.txt
+xraydb.egg-info/top_level.txt

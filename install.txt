@@ -1,0 +1,10 @@
+To install:
+
+pip install:
+  sqlalchemy
+  lxml
+  bs4
+
+go into XrayDB/python and run
+  python setup.py install
+
